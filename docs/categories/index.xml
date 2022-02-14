@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Shadow Wiki</title>
-    <link>http://example.org/categories/</link>
+    <link>https://neotran001.github.io/shadow-wiki/categories/</link>
     <description>Recent content in Categories on Shadow Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language><atom:link href="https://neotran001.github.io/shadow-wiki/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
