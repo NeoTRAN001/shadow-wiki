@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://neotran001.github.io/shadow-wiki/"
 languageCode = "es"
 title = "Shadow Wiki"
 theme = "tale"
