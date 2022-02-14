@@ -22,3 +22,9 @@ theme = "tale"
         title = "Ideas"
         url = "/ideas/"
         weight = 0
+    [[menu.main]]
+        identifier = "help"
+        name = "Ayuda"
+        title = "Ayuda"
+        url = "/help/"
+        weight = 0
