@@ -26,5 +26,5 @@ theme = "tale"
         identifier = "help"
         name = "Ayuda"
         title = "Ayuda"
-        url = "/help/"
+        url = "/markdown-syntax"
         weight = 0
