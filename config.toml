@@ -1,0 +1,24 @@
+baseURL = "http://example.org/"
+languageCode = "es"
+title = "Shadow Wiki"
+theme = "tale"
+
+[menu]
+    [[menu.main]]
+        identifier = "personajes"
+        name = "Personajes"
+        title = "Personajes"
+        url = "/personajes/"
+        weight = 0
+    [[menu.main]]
+        identifier = "historia"
+        name = "Historia"
+        title = "Historia"
+        url = "/historia/"
+        weight = 0
+    [[menu.main]]
+        identifier = "ideas"
+        name = "Ideas"
+        title = "Ideas"
+        url = "/ideas/"
+        weight = 0
